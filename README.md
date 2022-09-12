@@ -1,0 +1,1 @@
+# This repository has all the spark exercises as per CODEUP spark curriculum
